@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jakeTran42
+- 👀 I’m interested in React, GraphQL, Node, MongoDB, HTML, CSS, Express. 
+- 🌱 I’m currently learning AWS
+- 💞️ I’m looking to collaborate on anyting interesting
+- 📫 How to reach me: jake.tranehs@gmail.com
